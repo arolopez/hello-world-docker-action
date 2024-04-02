@@ -19,5 +19,5 @@ La fecha en la que te salude.
 ```
 uses: pablokbs/hello-world-docker-action@v1
 with:
-  who-to-greet: 'Pelades'
+  who-to-greet: 'Peladonerd'
 ```
